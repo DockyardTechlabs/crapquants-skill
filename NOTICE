@@ -1,0 +1,22 @@
+CRAPQuants Skill for Claude
+Copyright (c) 2026 Tushar Ghorpade / Dockyard Techlabs
+
+This skill's CONTENT is licensed under the MIT License.
+
+NAME AND BRANDING NOTICE
+------------------------
+The name "CRAPQuants" and its associated branding are the project
+identity of Dockyard Techlabs. The MIT License applies to the skill
+content only and does not grant rights to use the "CRAPQuants" name
+or brand in a manner that implies official status or endorsement, or
+that presents a derivative as the original project.
+
+Permitted: forking this skill and shipping it under your own name;
+stating that your work is "based on the CRAPQuants skill."
+
+Not permitted: redistributing a fork as the official "CRAPQuants skill";
+removing the copyright notice.
+
+Canonical projects:
+  Skill: https://github.com/dockyardtechlabs/crapquants-skill
+  Tool:  https://github.com/dockyardtechlabs/crapquants
