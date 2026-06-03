@@ -1,7 +1,7 @@
 # CRAPQuants Skill for Claude
 
 <p align="center">
-     <img src="crapquants/crapquants-skill.png" alt="CRAPQuants Logo" width="1000">
+     <img src="crapquants/CRAPQuants-skill.png" alt="CRAPQuants Logo" width="1000">
    </p>
 
 A Claude skill that teaches Claude how to analyze Python code quality using [CRAPQuants](https://github.com/dockyardtechlabs/crapquants).
